@@ -1,1 +1,1 @@
-# image_segmentation
+# mri_image_segmentation
